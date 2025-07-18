@@ -1,6 +1,4 @@
 🏎️ Pilotez l'IA sans Crash ni Panique !
-Afficher l'image
-
 "On ne confie pas une Formule 1 à un enfant de 9 ans."
 
 🎯 Formation IA 100% Financée pour les Entreprises Occitanes
@@ -13,8 +11,6 @@ Afficher l'image
 🎁 Sans avancer un centime !
 
 🎛️ L'IA : Pas de la Magie, Juste la maîtrise d'un Tableau de Bord
-Afficher l'image
-
 🚀 Vous entendez parler de GPT, Claude & Co... mais c'est encore flou ?
 🎯 Nos Solutions :
 ❓ Ça semble important, mais c'est flou ?
@@ -25,8 +21,6 @@ Type d'Entreprise	OPCO	CPF	Plan Occitanie
 TPE	1 400€/an/salarié	Formation personnalisée	60M€ dédiés
 PME	2 100€/an/salarié	100% financée	IA régionale
 🤖 Les Agents IA : Vos Nouveaux Accélérateurs
-Afficher l'image
-
 🎯 ROI Immédiat Garanti :
 📢 Agent Marketing IA
 100+ contenus par jour
@@ -49,8 +43,6 @@ Recrutement automatisé
 Temps : 30min pour 100 CV
 Gain : Efficacité maximale
 📚 Programme de Formation
-Afficher l'image
-
 "L'IA ne s'improvise pas, c'est pourquoi il faut comprendre avant d'agir."
 
 🎓 Programme Complet Financé à 100% :
@@ -76,8 +68,6 @@ Durée : 3h30
 ✅ OPCO : Selon votre secteur d'activité
 ✅ FSE+ : 50% cofinancement européen
 🪄 Le NoCode : La Magie pour les Moldus du Développement
-Afficher l'image
-
 ⚡ Créez sans coder, automatisez sans stress !
 🎯 Ce que vous apprendrez :
 📱 Créer une appli simple - Sans écrire une ligne de code
@@ -89,8 +79,6 @@ Afficher l'image
 🌟 Pass Numérique Occitanie : 1 500€ TPE
 🎫 Chèque Formation : 500-2 000€ selon effectif
 📈 Vos Résultats Garantis
-Afficher l'image
-
 🎯 Résultats Mesurables Immédiatement :
 Bénéfice	Avant	Après	Gain
 🎯 Vision IA	Flou total	Clarté parfaite	+100% compréhension
@@ -104,8 +92,6 @@ Bénéfice	Avant	Après	Gain
 💰 Investissement zéro, retour garanti !
 
 🆚 Avant / Après : La Transformation
-Afficher l'image
-
 "IA : Avant de rêver, il faut décoder, entre mirage et levier !"
 
 ⚖️ Votre Évolution Garantie :
@@ -120,8 +106,6 @@ Afficher l'image
 🚀 Formation : Expertise immédiate
 ⏰ Disponibilité : 24h/24 - 365 jours
 🌟 OFFRE SPÉCIALE OCCITANIE 2025
-Afficher l'image
-
 🎯 Profitez du Plan Régional IA de 60M€ !
 🎁 Vos Avantages Exclusifs :
 Avantage	Valeur	Votre Prix
@@ -157,8 +141,6 @@ Pass Numérique : 1 500€ pour digitalisation TPE
 Chèque Formation : 500-2 000€ selon effectif
 Aide Innovation : 40% du coût (plafond 4 000€)
 📞 Vos Contacts
-Afficher l'image
-
 🏢 RH FOR BUSINESS
 Organisme de Formation n° 11922036492 - Certifié QUALIOPI
 
@@ -216,6 +198,6 @@ Option B : Appeler maintenant et la piloter
 🎯 1h de conseil offerte post-formation
 📞 APPELEZ MAINTENANT : 06 07 04 73 69
 
-Document mis à jour le 18 juillet 2025 - Version GitHub Simple
+Document mis à jour le 18 juillet 2025 - Version GitHub
 ❤️ Made with Love - 🤖 Powered by IA
 
